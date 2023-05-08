@@ -1,0 +1,19 @@
+.red-back{
+    background-color: pink;
+    font-family: "Verdana" , "DejaVu Sans" , sans-serif;
+}
+
+#blu{
+    color: blue;
+    font-size: 36px;
+}
+
+.size{
+    font-size: 24px;
+}
+
+#gre{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

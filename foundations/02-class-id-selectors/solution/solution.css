@@ -1,3 +1,7 @@
+*{
+  border: 2px solid red;
+}
+
 .odd {
   background-color: rgb(255, 167, 167);
   font-family: Verdana, "DejaVu Sans", sans-serif;
